@@ -44,8 +44,4 @@ public class Player {
 
     public boolean hasAce() { return ace; }
 
-//    public int getHandValue() {
-//        return cardsList.stream().mapToInt(Card::getValue).sum();
-//    }
-
 }
